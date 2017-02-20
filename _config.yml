@@ -22,10 +22,6 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-navigation:
-  - name: contact form
-    id: 1c6ee6d2-06e8-43b9-9dcf-30a5c998a251
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e47b456-5244-43f9-9280-a4fc606bce89.png
 title: Welcome to my portfolio
@@ -56,7 +52,6 @@ content:
         sit back, relax and enjoy :) ▼ See More! ▼ Check our new Printable
         Antistress Coloring eBook for kids and adults. Drawings include fishes,
         coral reefs, turtles and more!
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links: []
       '@context': 'http://schema.org'
