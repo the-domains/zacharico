@@ -1,0 +1,36 @@
+typography_spectrum: 0.48199758590401914
+color:
+  brandStrength: 0.7132495255466772
+  lightness: 0.689285168450252
+  saturation: 0.5494571447133613
+  rhythmicContrast: 0.8536991983029696
+  brandColors:
+    - '#000000'
+    - '#FFFFFF'
+    - '#808080'
+    - '#DBDBDB'
+    - '#B3B3B3'
+layout_spectrum: 0.5835345619844069
+name: Zachari.co
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+title: Welcome to my portfolio
+content: []
+description: i'm available for work. across the globe
+purpose:
+  - type: contact
+    url: 'mailto:hello@zachari.co'
+    label: mail me
+  - type: contact
+    url: 'tel:0455376373'
+    label: phone me
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e47b456-5244-43f9-9280-a4fc606bce89.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c387489-43e2-4999-b07a-10bfb7af5392.png
