@@ -10,7 +10,10 @@ color:
     - '#808080'
     - '#DBDBDB'
     - '#B3B3B3'
+github: true
 layout_spectrum: 0.5835345619844069
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c387489-43e2-4999-b07a-10bfb7af5392.png
 name: Zachari.co
 colors:
   brandColors:
@@ -19,6 +22,12 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
+navigation:
+  - name: contact form
+    id: 1c6ee6d2-06e8-43b9-9dcf-30a5c998a251
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e47b456-5244-43f9-9280-a4fc606bce89.png
 title: Welcome to my portfolio
 content: []
 description: i'm available for work. across the globe
@@ -29,8 +38,3 @@ purpose:
   - type: contact
     url: 'tel:0455376373'
     label: phone me
-github: true
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e47b456-5244-43f9-9280-a4fc606bce89.png
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c387489-43e2-4999-b07a-10bfb7af5392.png
