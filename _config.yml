@@ -24,7 +24,7 @@ colors:
     - 'hsl(0,0%,20%)'
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e47b456-5244-43f9-9280-a4fc606bce89.png
-title: Welcome to my portfolio
+title: Hello. I'm Zachari
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
