@@ -1,17 +1,19 @@
-typography_spectrum: 0.48199758590401914
+layout_spectrum: 0.439392448714796
+typography_spectrum: 0.7903437533730291
 color:
-  brandStrength: 0.7132495255466772
-  lightness: 0.689285168450252
-  saturation: 0.5494571447133613
-  rhythmicContrast: 0.8536991983029696
+  brandStrength: 0.10395432531391041
+  lightness: 0.9136560734503414
+  saturation: 0.04588934799877577
+  rhythmicContrast: 0.5754179875406039
   brandColors:
-    - '#000000'
-    - '#FFFFFF'
-    - '#808080'
-    - '#DBDBDB'
-    - '#B3B3B3'
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+coverPrefs:
+  filter: false
 github: true
-layout_spectrum: 0.5835345619844069
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c387489-43e2-4999-b07a-10bfb7af5392.png
 name: Zachari.co
